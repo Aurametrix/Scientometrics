@@ -119,3 +119,6 @@ https://arxiv.org/abs/2412.13663
 https://arxiv.org/abs/2007.15779
 https://openai.com/index/gpt-4-research/
 https://openai.com/index/hello-gpt-4o/
+
+## Cited Papers on github
+[GenAI-Powered Postsecondary Computer Science Education Tools](https://github.com/owensizemore/genai-powered-postsecondary-csed-tools-supplementary)
